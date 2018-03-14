@@ -258,7 +258,7 @@ public class Magpie5
    "Hmmm.",
    "Do you really think so?",
    "You don't say.",
-   "Tell me more",
+   "Can you say that again?",
    "Very interesting"
  };
  
